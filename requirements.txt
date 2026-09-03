@@ -1,0 +1,8 @@
+# Packages for Merit_Order_Notebook.ipynb
+# Created and tested with Python 3.12
+# Installation:  pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+ipywidgets>=8.0
